@@ -36,7 +36,7 @@ To apply published labels to groups, you must first enable the feature. These st
     AzureADPreview\Connect-AzureAD
     ```
 
-    In the **Sign in to your account** page, enter your admin account and password to connect you to your service, and select **Sign in**.
+    In the **Sign in to your account** page, enter your Global admin account and password to connect you to your service, and select **Sign in**.
 1. Fetch the current group settings for the Azure AD organization and display the current group settings.
 
     ```powershell
